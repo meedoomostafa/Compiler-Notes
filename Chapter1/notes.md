@@ -1,4 +1,4 @@
-# Compiler Notes
+# Ch1 Notes
 
 ## What is a Compiler?
 A compiler is a program that transforms the code you write into **target code** (low-level code such as machine code or assembly code) after moving through multiple phases.
