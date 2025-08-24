@@ -29,5 +29,7 @@ public class Program
 
         MaxArgs maxArgs = new MaxArgs();
         System.out.println(maxArgs.GetMaxPrintArgs(prog));
+        Interpreter inter = new Interpreter();
+        System.out.println(inter.InterpreterStm(prog));
     }
 }

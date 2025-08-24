@@ -48,9 +48,9 @@ public class DataStructure {
         }
     }
     public static class IdExp extends Exp {
-        public String id;
+        public String Id;
         public IdExp(String i) {
-            id=i;
+            Id=i;
         }
     }
 
